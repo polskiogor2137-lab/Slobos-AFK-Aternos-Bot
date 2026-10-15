@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {BIOROBOT.aternos.me
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 17422,
     "version": "",
     "try-creative": false
   },
